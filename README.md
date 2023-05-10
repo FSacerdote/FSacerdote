@@ -2,13 +2,13 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="500" height="320" />
 
-## I'm a student
+## I'm a computer science student
 
 - 🌱 I’m currently learning React
 - 📫 Email: fernando.saerdote@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love watching series and films
-- 🗣️ I speak english and portuguese
+- 🗣️ I speak English and Portuguese
 - 🎂 I'm 19 years old
 - 📍 I'm from Brasil
 
