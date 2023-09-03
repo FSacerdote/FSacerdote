@@ -4,12 +4,12 @@
 
 ## I'm a computer science student
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning postgreSQL
 - 📫 Email: fernando.saerdote@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love watching series and films
 - 🗣️ I speak English and Portuguese
-- 🎂 I'm 19 years old
+- 🎂 I'm 20 years old
 - 📍 I'm from Brasil
 
 ### Reach me:
