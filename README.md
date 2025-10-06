@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love watching series and films
 - 🗣️ I speak English and Portuguese
-- 🎂 I'm 20 years old
+- 🎂 I'm 22 years old
 - 📍 I'm from Brazil
 
 <br/>
